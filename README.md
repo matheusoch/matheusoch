@@ -8,7 +8,6 @@ Statistics undergraduate at the Federal University of Minas Gerais (UFMG), focus
 - 🔬 Undergraduate Researcher at GEESC / Cedeplar / UFMG
 - 📊 Interested in Data Analytics, Business Intelligence and Data Science
 - 💻 Experience with Power BI, SQL, R and Excel
-- 🐍 Currently developing my Python skills for data analysis and automation
 - 📍 Belo Horizonte, Brazil
 
 ## Tech Stack
